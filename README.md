@@ -1,6 +1,6 @@
 # Medical Diffusion
 
-This repository contains the code to our paper "Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis"
+This repository contains the code of "Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis"
 (see https://arxiv.org/abs/2211.03364).
 
 ![Generated Samples by our Medical Diffusion model](assets/generated_samples.gif)
@@ -9,7 +9,7 @@ This repository contains the code to our paper "Medical Diffusion: Denoising Dif
 This code has been tested on Ubuntu 20.04 and an NVIDIA Quadro RTX 6000 GPU. Furthermore it was developed using Python v3.8.
 
 # Setup
-In order to run our model, we suggest you create a virtual environment 
+In order to run  model, suggest you create a virtual environment 
 ```
 conda create -n medicaldiffusion python=3.8
 ``` 
