@@ -62,7 +62,7 @@ Where you again need to specify the path to the VQ-GAN checkpoint from before (e
 
 
 # Citation
-To cite our work, please use
+To cite the work, please use
 ```
 @misc{https://doi.org/10.48550/arxiv.2211.03364,
   doi = {10.48550/ARXIV.2211.03364},
