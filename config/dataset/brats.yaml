@@ -1,0 +1,4 @@
+name: BRATS
+root_dir: /data/BraTS/BraTS 2020
+image_channels: 1
+imgtype: flair
